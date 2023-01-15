@@ -11,6 +11,7 @@
 		6E52F618297157AA00050877 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6E52F617297157AA00050877 /* ContentView.swift */; };
 		6E52F61A297157AB00050877 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6E52F619297157AB00050877 /* Assets.xcassets */; };
 		6E52F61D297157AB00050877 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6E52F61C297157AB00050877 /* Preview Assets.xcassets */; };
+		6E52F62529743D7300050877 /* Login.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6E52F62429743D7300050877 /* Login.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		6E52F617297157AA00050877 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		6E52F619297157AB00050877 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		6E52F61C297157AB00050877 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		6E52F62429743D7300050877 /* Login.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Login.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -52,6 +54,7 @@
 			isa = PBXGroup;
 			children = (
 				6E52F615297157AA00050877 /* SwiftUI_Firebase_LoginScreenApp.swift */,
+				6E52F62429743D7300050877 /* Login.swift */,
 				6E52F617297157AA00050877 /* ContentView.swift */,
 				6E52F619297157AB00050877 /* Assets.xcassets */,
 				6E52F61B297157AB00050877 /* Preview Content */,
@@ -139,6 +142,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				6E52F62529743D7300050877 /* Login.swift in Sources */,
 				6E52F618297157AA00050877 /* ContentView.swift in Sources */,
 				6E52F616297157AA00050877 /* SwiftUI_Firebase_LoginScreenApp.swift in Sources */,
 			);
